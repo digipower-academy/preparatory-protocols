@@ -46,7 +46,17 @@ https://user-images.githubusercontent.com/17878016/174087071-cd47d2f2-8380-4cf8-
 
 
 
-5. And you're done. You can now use your apps to monitor what contacts they make. To export App Privacy Report data afterwards, see [this page](https://github.com/hestiaAI/data-catalog/blob/main/workshop/How-to-export-data-from-App-Privacy-Report.md). 
+5. And you're DONE. 
+
+You can now use your apps to monitor what contacts they make. To export App Privacy Report data afterwards, 
+
+1. Click on "Privacy".
+
+2. At the bottom, click on "App Privacy Report".
+
+3. Click on the share icon at the top right of your screen.
+
+4. You can now transfer this NDJSON file from phone to your desktop/laptop machine you will use in the workshops, using whatever means is easiest for you (AirDrop, email attachment, Signal message to self, etc). 
 
 
 
