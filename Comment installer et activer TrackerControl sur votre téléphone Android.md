@@ -1,4 +1,4 @@
-## Comment installer et activer TrackerControl sur Android
+## [FR] Comment installer et activer TrackerControl sur Android
 
 
 
