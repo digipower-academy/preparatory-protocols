@@ -6,11 +6,11 @@
 
 
 
-- [Why install App Privacy Report?](https://github.com/hestiaAI/data-catalog/blob/main/workshop/enable-App-Privacy-Report-on-iOS.md#why-install-app-privacy-report-on-ios)
+- [Why install App Privacy Report?](https://github.com/digipower-academy/preparatory-protocols/blob/main/App%20Privacy%20Report%20on%20iOS.md#why-install-app-privacy-report-on-ios)
 
-- [Enabling Tracking - First Time Setup](https://github.com/hestiaAI/data-catalog/blob/main/workshop/enable-App-Privacy-Report-on-iOS.md#enabling-tracking---first-time-setup)
+- [Enabling Tracking - First Time Setup](https://github.com/digipower-academy/preparatory-protocols/blob/main/App%20Privacy%20Report%20on%20iOS.md#enabling-tracking---first-time-setup)
 
-- [Troubleshooting](https://github.com/hestiaAI/data-catalog/blob/main/workshop/enable-App-Privacy-Report-on-iOS.md#troubleshooting)
+- [Troubleshooting](https://github.com/digipower-academy/preparatory-protocols/blob/main/App%20Privacy%20Report%20on%20iOS.md#troubleshooting)
 
 
 
@@ -61,8 +61,6 @@ You can now use your apps to monitor what contacts they make. To export App Priv
 
 
 ## Troubleshooting
-
-
 
 If you have any questions or problems you can contact workshop@hestia.ai.
 
