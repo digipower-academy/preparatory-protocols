@@ -6,13 +6,13 @@
 
 
 
-- Pourquoi installer TrackerControl ?] (https://github.com/hestiaAI/data-catalog/blob/main/workshop/install-and-enable-trackercontrol.md#why-install-trackercontrol)
+-[Pourquoi installer TrackerControl ?](https://github.com/digipower-academy/preparatory-protocols/blob/main/Comment%20installer%20et%20activer%20TrackerControl%20sur%20votre%20t%C3%A9l%C3%A9phone%20Android.md#pourquoi-installer-trackercontrol-)
 
-- Installation de TrackerControl](https://github.com/hestiaAI/data-catalog/blob/main/workshop/install-and-enable-trackercontrol.md#installing-trackercontrol)
+- [Installation de TrackerControl](https://github.com/digipower-academy/preparatory-protocols/blob/main/Comment%20installer%20et%20activer%20TrackerControl%20sur%20votre%20t%C3%A9l%C3%A9phone%20Android.md#installation-de-trackercontrol)
 
-- Activation du suivi - Première installation](https://github.com/hestiaAI/data-catalog/blob/main/workshop/install-and-enable-trackercontrol.md#enabling-tracking---first-time-setup)
+- [Activation du suivi - Première installation](https://github.com/digipower-academy/preparatory-protocols/blob/main/Comment%20installer%20et%20activer%20TrackerControl%20sur%20votre%20t%C3%A9l%C3%A9phone%20Android.md#activation-du-suivi---premi%C3%A8re-installation)
 
-- [Dépannage](https://github.com/hestiaAI/data-catalog/blob/main/workshop/install-and-enable-trackercontrol.md#troubleshooting)
+- [Dépannage](https://github.com/digipower-academy/preparatory-protocols/blob/main/Comment%20installer%20et%20activer%20TrackerControl%20sur%20votre%20t%C3%A9l%C3%A9phone%20Android.md#troubleshooting)
 
 
 
@@ -189,11 +189,15 @@
 
 
 
-
-
-
 18. Vous pouvez maintenant transférer ce fichier CSV depuis le stockage du téléphone vers votre ordinateur de bureau/portable , en utilisant le moyen le plus simple pour vous (transfert USB, pièce jointe d'un e-mail, message d'alerte à soi-même, etc.) 
 
+## Dépannage
+
+Des informations officielles sur le support technique sont disponibles à l'adresse https://trackercontrol
+
+Si vous avez des questions ou des problèmes, vous pouvez nous contacter via workshop@hestia.ai.
 
 
-Des informations officielles sur le support technique sont disponibles à l'adresse https://trackercontro
+
+
+
