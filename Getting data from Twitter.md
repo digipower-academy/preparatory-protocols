@@ -28,7 +28,11 @@ To get data from Twitter, please follow the following instructions. Check [this 
 
 11. At the right, you have access to the button 'Download archive'. Press Download archive and you will the estimated size of your data
 
-12. Click again on Download archive and save your zip file on your computer under the filename twitter-YYYY-DD-YY.zip
+12. Click again on Download archive and save your zip file on your computer.
+
+## Troubleshooting
+
+If you have any questions or problems you can contact us via workshop@hestia.ai
 
 
 
